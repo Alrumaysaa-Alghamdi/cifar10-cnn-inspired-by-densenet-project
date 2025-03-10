@@ -3,7 +3,7 @@
 CIFAR10 CNN Classification Model
 
 Approach:
-- Develop a custom CNN inspired by a famous architecture in this project it is DenseNet, then train from scratch.
+- Develop a custom CNN inspired by a famous architecture in this project it will be DenseNet model, then train the model from scratch.
   
 - Perform transfer learning on the a famous model (DenseNet model):
   - We reuse DenseNet-121 Transfer Learning Model and uplode it on drive: https://drive.google.com/drive/folders/18n7rKP9HDllCYsIT5g9yrqSbN1OyAoxT?usp=sharing
